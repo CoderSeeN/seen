@@ -1,0 +1,84 @@
+img {
+    width: 400px;
+}
+h1 {
+    color:lightseagreen;
+    margin: 0;
+}
+h3 {
+    margin: 0;
+}
+h4 {
+    margin: 0;
+}
+body {
+    background-color:darkslategray;
+    color:aliceblue;
+    margin: 0;
+    padding: 0;
+}
+/* Navigation Panel
+------------------------------------*/
+.navigate a{
+    color:coral;
+    text-decoration: none;
+}
+.nav-style li{
+    display:inline-block;
+    margin: 0 10px;
+}
+
+/* About me
+------------------------------------*/
+header {
+    background-color:#009460;
+}
+.header-style {
+    width: 900px;
+    margin: 0 auto;
+    padding: 60px 0;
+}
+/* My Games
+--------------------------------------- */
+.games{
+    background-color:#0398fc;
+}
+.game-style {
+    width: 900px;
+    margin: 0 auto;
+    padding: 60px 0;
+}
+/* Side Box
+---------------------------------------- */
+.side {
+    width: 900px;
+    margin: 0 auto;
+}
+/* My Interests and Achievements
+---------------------------------------- */
+.interest{
+    background-color: darkgrey;
+}
+.interest-style {
+    width: 900px;
+    margin: 0 auto;
+    padding: 60px 0;
+}
+/* My Links
+--------------------------------------- */
+.links{
+    background-color: darkgoldenrod;
+}
+.links a{
+    text-decoration: none;
+    background-color:rgb(46, 139, 87);
+    padding:8px;
+    border-radius:4px;
+}
+.links a:hover{
+    background: rgba(46, 139, 87, 80%);
+}
+.links-style {
+    width: 900px;
+    margin: 0 auto;
+}
